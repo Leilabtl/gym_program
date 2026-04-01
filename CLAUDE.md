@@ -4,7 +4,7 @@
 
 A minimal, mobile-first gym logging web app built with **Next.js** and **Firebase Firestore**. Users can quickly log exercises — movement name, reps, and weight — during workouts.
 
-**Repo:** 
+**Repo:** https://github.com/Leilabtl/gym_program
 **Deployment:** Vercel  
 **Database:** Firebase Firestore
 
